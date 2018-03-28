@@ -1,0 +1,1 @@
+voici fichier1.txt qui pour l'instant n'a qu'une seul ligne.

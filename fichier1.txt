@@ -1,1 +1,2 @@
-voici fichier1.txt qui pour l'instant n'a qu'une seul ligne.
+voici fichier1.txt
+ce fichier a maintenant deux lignes.
